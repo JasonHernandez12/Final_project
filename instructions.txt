@@ -1,0 +1,23 @@
+
+-----| INSTRUCCIONES PARA EJECUTAR EL PROYECTO |-----
+
+1) En el menú de "Archivo" seleccionar "GENERAR MAPA" (O presionar: ctrl + shift + G)
+2) Generar un mapa de 50 casillas de ancho y 15 de alto
+3) Ejecutar el proyecto a una velocidad un poco rápida
+
+
+
+
+-----| INSTRUCTIONS TO RUN THE PROJECT |-----
+
+1) In the "File" menu select "Generate map" (Or press: ctrl + shift + G)
+2) Generate a map 50 squares wide and 15 high
+3) Run the project at a slightly fast speed
+
+
+
+
+
+Creado por: Jason Hernández
+
+Created by: Jason Hernández
